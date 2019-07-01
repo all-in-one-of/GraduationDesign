@@ -1,0 +1,17 @@
+{
+    "start_frame": "1", 
+    "camera_resultion_wight": "1280", 
+    "FX": "D:\\TD\\pipelineTD/File/project_001/Sequence_001/Shot_001/Fx/test_v02.abc", 
+    "comp": [], 
+    "renderengine": "pbrraytrace", 
+    "camera_resultion_hight": "720", 
+    "layout": "D:\\TD\\pipelineTD/File/project_001/Sequence_001/Shot_001/Layout/camera.abc", 
+    "assets": [
+        "D:\\TD\\pipelineTD/File/project_001/Sequence_001/Shot_001/Assets/groud.abc", 
+        "D:\\TD\\pipelineTD/File/project_001/Sequence_001/Shot_001/Assets/house.abc"
+    ], 
+    "light": [], 
+    "end_frame": "3", 
+    "animation": "D:\\TD\\pipelineTD/File/project_001/Sequence_001/Shot_001/Animation/runman.abc", 
+    "save_pos": "D:/TD/O.$F4.jpeg"
+}
